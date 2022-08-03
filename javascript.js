@@ -1,0 +1,1 @@
+alert("¡BIENVENIDOS...! a MANTRARES pagina de prestaciones de Servicios Industriales")
